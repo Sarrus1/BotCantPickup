@@ -44,7 +44,8 @@ CSWeaponID[] allowedBotWeapons = {
 	CSWeapon_SCAR17,
 	CSWeapon_SG556,
 	CSWeapon_SSG08,
-	CSWeapon_M4A1_SILENCER
+	CSWeapon_M4A1_SILENCER,
+	CSWeapon_SHIELD
 };
 
 
